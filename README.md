@@ -1,0 +1,2 @@
+# ProjectDetectingFraud
+DETECTING FRAUDS IN BANK PAYMENTS 
